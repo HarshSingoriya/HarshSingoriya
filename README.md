@@ -12,7 +12,7 @@
 
 ### 🌟 About Me  
 💡 Passionate about transforming **data into insights**  
-📊 Currently working as **Data Analyst Intern** at *Ramani Ice Cream Company Ltd*  
+📊 I was working as **Data Analyst Intern** at *Ramani Ice Cream Company Ltd*  
 📈 Built projects like **Ola Data Analysis, Blinkit Grocery Dashboard, Vehicle Analysis, Sales Order Analysis**  
 🎓 **B.Tech Agriculture Engineering (2024)**  
 🌱 Lifelong learner — *“Sharing is the best way of learning”*  
@@ -65,7 +65,7 @@
 ---
 
 ### 🦄 Outside of Work  
-- 🚴 Cycling adventures  
+- 🚴 Playing cricket
 - 👨‍🍳 Cooking tasty dishes  
 - 📚 Reading novels  
 - ✍️ Writing  
